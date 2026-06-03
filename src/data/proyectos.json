@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nombre": "Primer Portfolio",
+    "descripcion": "Portfolio personal usando React y GitHub.",
+    "tecnologias": ["React" , "GitHub Pages"],
+    "imagen": "C:\\Users\\Space\\Pictures\\Screenshots\\Captura de pantalla 2026-06-03 002208.png",
+    "link": "https://tbaldironi-gif.github.io/cv-porfolio/"
+  }
+
+]
